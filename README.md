@@ -2,7 +2,7 @@
 
 A full-stack Food Ordering solution featuring a **React Native (Expo)** mobile frontend with a sleek **Crimson Red theme**, paired with a robust **Node.js, Express & MongoDB** backend API.
 
-![Food Ordering Mobile App Preview](assets/app_preview.png)
+![Food Ordering Mobile App Preview](app_preview.png)
 
 ---
 
